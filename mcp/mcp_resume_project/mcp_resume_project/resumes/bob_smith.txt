@@ -1,0 +1,4 @@
+Bob Smith
+Frontend developer specializing in React and TypeScript.
+5 years building accessible, performant web applications.
+Skills: React, TypeScript, CSS, Accessibility

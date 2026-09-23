@@ -1,0 +1,8 @@
+mcp[cli]<2
+pypdf
+python-docx
+langgraph
+langchain-mcp-adapters
+anthropic
+pytest
+pytest-asyncio

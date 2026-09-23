@@ -1,0 +1,4 @@
+Alice Johnson
+Software Engineer with 5 years of experience in Python, distributed systems,
+and machine learning. Strong background in backend architecture.
+Skills: Python, Kubernetes, PostgreSQL, Machine Learning
